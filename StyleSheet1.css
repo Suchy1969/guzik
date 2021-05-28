@@ -1,0 +1,22 @@
+﻿.button {
+  
+    width:400px;
+    height: 200px;
+    cursor: pointer;
+    outline: none;
+    background-image: url('guzik glowny.jpg');
+    border: none;
+   margin: auto;
+
+   
+}
+
+    .button:hover {
+         background-image: url('przycisk najechany.jpg');
+    }
+
+    .button:active {
+        background-image: url('guzik klikniety.jpg');
+       
+        transform: translateY(8px);
+    }

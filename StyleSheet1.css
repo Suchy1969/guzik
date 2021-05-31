@@ -21,10 +21,8 @@
         transform: translateY(8px);
     }
 a{
-    width:400px;
-    height: 200px;
-    cursor: pointer;
-    outline: none;
-    background-image: url('guzik glowny.jpg');
-    border: none;
+    width:399px;
+    height: 199px;
+    
+  
   margin: auto; }
